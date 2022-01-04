@@ -1,0 +1,43 @@
+body {
+    list-style-position:inside;
+}
+
+.ol1 {
+    font-size: 19px;
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+}
+
+.ul1 {
+    font-size: 19px;
+    font-family: monospace;
+}
+
+.head3 {
+    font-size: 23px;
+    font-family: monospace;
+    color: rgb(219, 179, 48);
+}
+
+.head {
+    font-size: 40px;
+    font-family: serif;
+    color: red;
+}
+
+.nav {
+    font-size:21px;
+    font-family: monospace;
+}
+
+.ana-sayfa {
+    font-size: 30px;
+    font-family: monospace;
+    color:purple
+}
+
+.p1 {
+    font-size: 19px;
+    font-family: monospace;
+    color: rgb(2, 1, 1);
+}
